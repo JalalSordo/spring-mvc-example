@@ -2,4 +2,6 @@
 
 Simple spring mvc "getting started" project.
 
-Configured using annotation.
+Configured using annotations.
+
+Tested on Tomcat 8.5 in eclipse STS.
