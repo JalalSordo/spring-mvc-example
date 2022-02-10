@@ -23,7 +23,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<spring.version>5.2.3.RELEASE</spring.version>
-		<hibernate.version>5.4.1.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<jackson.version>2.7.5</jackson.version>
 		<spring-data-jpa.version>1.11.23.RELEASE</spring-data-jpa.version>
 		<hibernate.version>4.2.6.Final</hibernate.version>
